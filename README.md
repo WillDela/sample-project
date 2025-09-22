@@ -52,12 +52,6 @@ A Next.js web application that uses Google's Gemini 2.0 Pro API to analyze uploa
 - **Google Gemini 2.0 Pro** - AI image analysis
 - **React** - UI components
 
-## API Key Security
-
-- Never commit your API key to version control
-- The `.env.local` file is gitignored for security
-- Your API key is only used server-side in the API route
-
 ## Project Structure
 
 ```
